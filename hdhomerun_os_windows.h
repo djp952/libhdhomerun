@@ -36,7 +36,6 @@
 #include <windows.h>
 #include <ws2tcpip.h>
 #include <wspiapi.h>
-#include <ntsecapi.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdarg.h>
